@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">testClientSocket</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">2Pantallas+</string>
+    <string name="nav_header_subtitle">efraruiz94@outlook.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_lista">Lista de reproduccion</string>
+    <string name="menu_search">Navegador</string>
+    <string name="menu_gallery">Subir media</string>
+    <string name="menu_tools">Conexión</string>
+    <string name="menu_send">Send</string>
+    <string name="icon">icon</string>
+</resources>

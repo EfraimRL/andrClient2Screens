@@ -1,0 +1,16 @@
+//
+// Created by PROGRAM on 03/04/2020.
+//
+
+#ifndef TESTCLIENTSOCKET_CONEXION_H
+#define TESTCLIENTSOCKET_CONEXION_H
+
+
+
+class Conexion {
+
+};
+
+
+
+#endif //TESTCLIENTSOCKET_CONEXION_H
