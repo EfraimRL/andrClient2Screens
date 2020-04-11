@@ -1,6 +1,6 @@
 # App en android para controlar el reproductor.
 
-Se realiza una conexiónn a traves del socket al puerto 800 de la maquina con el reproductor[server], 
+Se realiza una conexiónn a traves del socket al puerto 800 de la maquina con el reproductor[[server](https://github.com/EfraimRL/pyTestScreen)], 
 con está aplicación se puede ver la lista de reproducción, reproducir, pausar, seleccionar el video de la lista, 
 ocultar el reproductor en la pantalla, hacerlo visible, ponerlo en pantalla completa y volverlo al tamaño normal.
 
